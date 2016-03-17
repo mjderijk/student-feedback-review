@@ -1,5 +1,7 @@
 <?php
 
+use Battis\BootstrapSmarty\NotificationMessage;
+
 /* some sample app metadata information -- review config.xml for a panoply of options */
 $metadata['APP_DESCRIPTION'] = 'Review all feedback left for a particular student';
 $metadata['APP_DOMAIN'] = '';
