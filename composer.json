@@ -2,6 +2,9 @@
     "name": "smtech/student-feedback-review",
     "description": "Review all feedback left for a particular student",
 	"license": "GPL-3.0",
+	"config": {
+		"secure-http": false
+	},
 	"repositories": [
 		{
 			"type": "package",
